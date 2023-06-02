@@ -105,30 +105,5 @@
         "how": "election"
       }
     ]
-  },
-  {
-    "id": {
-      "bioguide": "B001133",
-      "govtrack": 402077,
-      "icpsr": 1302
-    },
-    "name": {
-      "first": "Aaron",
-      "last": "Burr",
-      "suffix": "Jr."
-    },
-    "bio": {
-      "birthday": "1756-02-06",
-      "gender": "M"
-    },
-    "terms": [
-      {
-        "type": "viceprez",
-        "start": "1801-03-04",
-        "end": "1805-03-04",
-        "party": "Democratic-Republican",
-        "how": "election"
-      }
-    ]
   }
 ]
