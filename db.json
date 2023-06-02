@@ -1,24 +1,11 @@
 {
-  "users": [  
-    {"id":1,"first_name":"Happy","last_name":"O'Hartnedy","email":"hohartnedy0@shinystat.com","gender":"Female","ip_address":"72.229.143.101"},
-    {"id":2,"first_name":"Cassandra","last_name":"Heistermann","email":"cheistermann1@cam.ac.uk","gender":"Female","ip_address":"179.235.110.54"},
-    {"id":3,"first_name":"Jerrie","last_name":"Jansa","email":"jjansa2@wsj.com","gender":"Female","ip_address":"27.80.135.160"},
-    {"id":4,"first_name":"Allayne","last_name":"Strong","email":"astrong3@eventbrite.com","gender":"Male","ip_address":"36.149.8.23"},
-    {"id":5,"first_name":"Salomo","last_name":"Harley","email":"sharley4@barnesandnoble.com","gender":"Male","ip_address":"4.157.97.155"},
-    {"id":6,"first_name":"Germaine","last_name":"Gullyes","email":"ggullyes5@spotify.com","gender":"Male","ip_address":"68.17.79.108"},
-    {"id":7,"first_name":"Jarrad","last_name":"Cino","email":"jcino6@squidoo.com","gender":"Male","ip_address":"244.17.253.6"},
-    {"id":8,"first_name":"Padraig","last_name":"Spriggen","email":"pspriggen7@xrea.com","gender":"Male","ip_address":"176.144.178.238"},
-    {"id":9,"first_name":"Nicko","last_name":"Storks","email":"nstorks8@disqus.com","gender":"Male","ip_address":"147.112.157.41"},
-    {"id":10,"first_name":"Hersh","last_name":"Saintsbury","email":"hsaintsbury9@nationalgeographic.com","gender":"Male","ip_address":"50.234.100.19"},
-    {"id":11,"first_name":"Danit","last_name":"Huxton","email":"dhuxtona@sciencedirect.com","gender":"Female","ip_address":"192.31.195.46"},
-    {"id":12,"first_name":"Juana","last_name":"Gauche","email":"jgaucheb@redcross.org","gender":"Female","ip_address":"222.76.109.197"},
-    {"id":13,"first_name":"Ardith","last_name":"Foran","email":"aforanc@vkontakte.ru","gender":"Female","ip_address":"248.135.79.28"},
-    {"id":14,"first_name":"Saunder","last_name":"Furnell","email":"sfurnelld@ycombinator.com","gender":"Male","ip_address":"117.5.176.159"},
-    {"id":15,"first_name":"Etta","last_name":"Leither","email":"eleithere@symantec.com","gender":"Female","ip_address":"107.217.118.3"},
-    {"id":16,"first_name":"Sayers","last_name":"Powe","email":"spowef@purevolume.com","gender":"Genderfluid","ip_address":"8.79.60.189"},
-    {"id":17,"first_name":"Margette","last_name":"Stanborough","email":"mstanboroughg@cbsnews.com","gender":"Female","ip_address":"38.44.7.64"},
-    {"id":18,"first_name":"Marie-ann","last_name":"Knapper","email":"mknapperh@illinois.edu","gender":"Female","ip_address":"177.87.98.230"},
-    {"id":19,"first_name":"Keenan","last_name":"Leghorn","email":"kleghorni@people.com.cn","gender":"Male","ip_address":"219.18.20.29"},
-    {"id":20,"first_name":"Burnard","last_name":"Mulqueen","email":"bmulqueenj@ox.ac.uk","gender":"Male","ip_address":"132.28.210.193"}
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
