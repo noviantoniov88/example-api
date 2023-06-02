@@ -1,4 +1,4 @@
-[
+{
 "users":[  
   {"id":1,"first_name":"Happy","last_name":"O'Hartnedy","email":"hohartnedy0@shinystat.com","gender":"Female","ip_address":"72.229.143.101"},
   {"id":2,"first_name":"Cassandra","last_name":"Heistermann","email":"cheistermann1@cam.ac.uk","gender":"Female","ip_address":"179.235.110.54"},
@@ -21,4 +21,4 @@
   {"id":19,"first_name":"Keenan","last_name":"Leghorn","email":"kleghorni@people.com.cn","gender":"Male","ip_address":"219.18.20.29"},
   {"id":20,"first_name":"Burnard","last_name":"Mulqueen","email":"bmulqueenj@ox.ac.uk","gender":"Male","ip_address":"132.28.210.193"}
   ]
-]
+}
